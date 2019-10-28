@@ -1,0 +1,9 @@
+{
+  "events": [
+    { "eventID": 1, "title": "Watching Final Fantasy IV", "price": 100, "creator": "Yakiv", "attendees": 1, "likes": 3, "pic": "finalFantasyIV.png"},
+    { "eventID": 2, "title": "Watching Alladin with Will Smith", "price": 150, "creator": "Serjio", "attendees": 2, "likes": 4, "pic": "aladdin.png"}
+  ],
+  "profile": {
+    "name": "coroboX"
+  }
+}
